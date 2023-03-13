@@ -1,6 +1,6 @@
 # CMPSC 310 Activity 12
 
-## Deadline: March 8 by 9:50am
+## Deadline: March 15 by 9:50am
 
 ## Assignment
 
